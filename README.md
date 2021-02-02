@@ -1,10 +1,5 @@
 ## 合成大西瓜
 
-（演示卡是因为免费的gitee顶不住）
-原版演示地址：http://xpand.gitee.io/daxigua
-
-魔改版演示地址：https://xpand.gitee.io/xigua
-
 
 
 更新：修改可分数选择代码。修复了结算时分数不正确
