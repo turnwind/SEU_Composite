@@ -2,6 +2,7 @@
 
 注:换皮版（院系院徽）
 
+演示:https://seu-composite.vercel.app/
 添加模式选择和分数选择
 
 # 模式选择
